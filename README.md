@@ -1,6 +1,6 @@
 # SpringBoot
 
-This are some sample project to get started with SpringBoot.
+These are some sample project to get started with SpringBoot.
 
 Instructions:
 1.import files into eclipse
