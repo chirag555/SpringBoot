@@ -10,7 +10,7 @@ Instructions:
 5.Run Postman and try the api calls given below.
 
 PostMan Calls
-Collection file available in parent directory
+Collection file available in parent directory import as RAW Text in postman.
 
 
 
